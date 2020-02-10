@@ -1,6 +1,7 @@
 # Charles Babbage connections
 | Alter  | Reference|
 | ------------- |------------- |
+| [Arthur Hugh Clough](https://github.com/altealo/ArthurHughClough/blob/master/README.md)|[Ibrahim, S. *An annotated edition of the letters of Arthur Hugh Clough to his American friends: Ralph Waldo Emerson, Charles Eliot Norton, James Russell Lowell, Francis James Child Andhenry Wadsworth Longellow, over the period 1847–1861.*](https://www.dora.dmu.ac.uk/xmlui/bitstream/handle/2086/11468/Susan%20Ibrahim%20e-thesis%20submission.pdf;sequence=1)|
 | [William Farr](https://github.com/altealo/WilliamFarr/blob/master/README.md)|[Babbage, C. *Passages from the Life of a Philosopher.*](https://projects.exeter.ac.uk/babbage/publish.html)|
 | [Ada Lovelace](https://github.com/altealo/AdaLovelace/blob/master/README.md)|[Diamond, M. & Stone, M. *Nightingale on Quetelet.*](https://www.jstor.org/stable/2982160?seq=1#page_scan_tab_contents)|
 | [John Stuart Mill](https://github.com/altealo/JohnStuartMill/blob/master/README.md)|[*The history of science and technology.Series Three: The Papers of Charles Babbage, 1791-1871.*](http://www.ampltd.co.uk/collections_az/HistSc-3-1/highlights.aspx)|
